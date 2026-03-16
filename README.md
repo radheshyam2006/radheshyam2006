@@ -1,7 +1,7 @@
 # Hi, I'm Radheshyam!
 
 🎓 **Undergraduate Student** at **IIIT Hyderabad** | 6th Semester  
-📍 From Kurnool, Andhra Pradesh  
+📍 From Hyderabad, Telangana
 🔬 Passionate about **Machine Learning**, **VLSI/FPGA Design**, and **Computer Architecture**
 
 ---
